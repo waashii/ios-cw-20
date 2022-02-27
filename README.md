@@ -1,3 +1,4 @@
+
 <details close>
 <summary>التمرين الاول</summary>
 <br>
@@ -10,7 +11,9 @@
 
 * [صنع تطبيق الأفلام](https://youtu.be/qCUJmBjyhQA)
     </p>
+
 <p dir="rtl">
+
 * [إضافة ال struct ](https://youtu.be/Sve75zuEuWc)  
     </p>
 
@@ -42,15 +45,19 @@ struct MoviesStruct: Hashable, Identifiable{
 
 
 <p dir="rtl">
+
 1.  قم بفتح مشروع جديد في xcode 
     </p>
     <p dir="rtl">
+
 2. قم بعمل شكل مطابق للصفحة الرئيسية المدرجة في العرض
     </p>
     <p dir="rtl">
+
 3. قم بإضافة  ٣ أو اكثر من افلامك بداخل struct خاص بالافلام 
     </p>
     <p dir="rtl">
+
 4. لاتنسى إضافة الصور
     </p>
 
@@ -67,10 +74,12 @@ struct MoviesStruct: Hashable, Identifiable{
 
 
     <p dir="rtl">
+
 * [إضافة ملفات للمشروع ](https://youtu.be/VVix8Y_LcIA) 
 
     </p>
     <p dir="rtl">
+    
 * [إضافة مجلدات للمشروع](https://youtu.be/oqP5kg7Xe30)  
     </p>
 
@@ -95,13 +104,15 @@ struct MoviesStruct: Hashable, Identifiable{
 
 
 
-
+<p dir="rtl">
 1.  قم بإضافة ملف جديد لصفحة التفاصيل 
-
+</p>
+<p dir="rtl">
 2. قم بتصميم صفحة التفاصيل 
-
+</p>
+<p dir="rtl">
 3. قم بإضافة ملف إضافي ل movie row 
-
+</p>
 <p dir="rtl">
 بونص ✨: قم بترتيب تطبيقك اكثر واضف ال struct خاصتك بملف جديد </p>
 
@@ -173,3 +184,4 @@ struct MoviesStruct: Hashable, Identifiable{
 3. تأكد بأن تقوم بالدوران حول المصفوفة داخل Hstack في ال scroll view 
 
 </details>
+
