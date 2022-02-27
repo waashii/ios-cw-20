@@ -6,13 +6,13 @@
 فيديوهات الدرس</p>
 
 
-
+<p dir="rtl">
 
 * [صنع تطبيق الأفلام](https://youtu.be/qCUJmBjyhQA)
-
-
+    </p>
+<p dir="rtl">
 * [إضافة ال struct ](https://youtu.be/Sve75zuEuWc)  
-
+    </p>
 
 # <p dir="rtl">
 شرح الدرس (مثال: قواعد الكتابة)</p>
@@ -41,18 +41,22 @@ struct MoviesStruct: Hashable, Identifiable{
 نبي نتعرف عليك اكثر من هذا التمرين</p>
 
 
-
+<p dir="rtl">
 1.  قم بفتح مشروع جديد في xcode 
-
+    </p>
+    <p dir="rtl">
 2. قم بعمل شكل مطابق للصفحة الرئيسية المدرجة في العرض
-
+    </p>
+    <p dir="rtl">
 3. قم بإضافة  ٣ أو اكثر من افلامك بداخل struct خاص بالافلام 
-
+    </p>
+    <p dir="rtl">
 4. لاتنسى إضافة الصور
+    </p>
 
 </details>
 
-<details open>
+<details close>
 <summary>التمرين الثاني</summary>
 <br>
 
@@ -62,12 +66,13 @@ struct MoviesStruct: Hashable, Identifiable{
 
 
 
-
+    <p dir="rtl">
 * [إضافة ملفات للمشروع ](https://youtu.be/VVix8Y_LcIA) 
 
-
+    </p>
+    <p dir="rtl">
 * [إضافة مجلدات للمشروع](https://youtu.be/oqP5kg7Xe30)  
-
+    </p>
 
 # <p dir="rtl">
 شرح الدرس (مثال: قواعد الكتابة)</p>
