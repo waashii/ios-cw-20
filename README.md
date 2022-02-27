@@ -1,4 +1,4 @@
-<details open>
+<details close>
 
 <summary>التمرين الاول</summary>
 
