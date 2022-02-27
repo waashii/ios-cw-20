@@ -1,3 +1,8 @@
+<details open>
+
+<summary>التمرين الاول</summary>
+
+<br>
 # <p dir="rtl">
 فيديوهات الدرس</p>
 
@@ -47,3 +52,6 @@
 
 
 3. تأكد بأن تقوم بالدوران حول المصفوفة داخل Hstack في ال scroll view 
+
+</details>
+
