@@ -37,7 +37,7 @@ struct MoviesStruct: Hashable, Identifiable{
 ---
 
 <p dir="rtl">
-<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-19">(github link )</a></strong></p>
+<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-20">(github link )</a></strong></p>
 
 
 <p dir="rtl">
@@ -96,7 +96,7 @@ struct MoviesStruct: Hashable, Identifiable{
 ---
 
 <p dir="rtl">
-<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-19">(github link )</a></strong></p>
+<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-20">(github link )</a></strong></p>
 
 
 <p dir="rtl">
@@ -157,7 +157,7 @@ struct MoviesStruct: Hashable, Identifiable{
 ---
 
 <p dir="rtl">
-<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-19">(github link )</a></strong></p>
+<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-20">(github link )</a></strong></p>
 
 
 <p dir="rtl">
