@@ -49,14 +49,17 @@ struct MoviesStruct: Hashable, Identifiable{
 1.  قم بفتح مشروع جديد في xcode 
     </p>
     <p dir="rtl">
+        
 
 2. قم بعمل شكل مطابق للصفحة الرئيسية المدرجة في العرض
     </p>
     <p dir="rtl">
+        
 
 3. قم بإضافة  ٣ أو اكثر من افلامك بداخل struct خاص بالافلام 
     </p>
     <p dir="rtl">
+        
 
 4. لاتنسى إضافة الصور
     </p>
