@@ -14,6 +14,7 @@
 		363866DA27EB586500BF1D92 /* detailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 363866D927EB586500BF1D92 /* detailsView.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXFileReference section */
 		363866C827EB579C00BF1D92 /* day7-MovieApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "day7-MovieApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		363866CB27EB579C00BF1D92 /* day7_MovieAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day7_MovieAppApp.swift; sourceTree = "<group>"; };
 		363866CD27EB579C00BF1D92 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
