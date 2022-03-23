@@ -10,12 +10,15 @@ import SwiftUI
 struct ContentView: View {
     let movies = ["cruella","killit","mib","spies","yourname"]
     var body: some View {
+        NavigationView{
         List(movies, id: \.self){ moviwe in
+            NavigationLink(destination: detailsView()){
             movieRow(movio: moviwe)
         }
+    }.navigationBarTitle("Movie")
+}
     }
 }
-
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
@@ -37,3 +40,5 @@ struct movieRow: View {
         }
     }
 }
+
+
