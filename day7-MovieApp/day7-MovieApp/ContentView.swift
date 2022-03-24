@@ -8,12 +8,25 @@
 import SwiftUI
 
 struct ContentView: View {
-    let movies = ["cruella","killit","mib","spies","yourname"]
+    let moviesArray = [
+film(movieName: "spies", MovieCast: ["pigeon","will"]),
+film(movieName: "cruella", MovieCast: ["ella","cruel"]),
+film(movieName: "killit", MovieCast: ["ella","cruel"]),
+film(movieName: "mib", MovieCast: ["ella","cruel"]),
+film(movieName: "yourname", MovieCast: ["name","yu jin"])
+
+
+
+    ]
+    
+//    ["cruella","killit","mib","spies","yourname"]
     var body: some View {
         NavigationView{
-        List(movies, id: \.self){ moviwe in
-            NavigationLink(destination: detailsView()){
-            movieRow(movio: moviwe)
+            
+    List(moviesArray){ moviwe in
+            NavigationLink(destination: detailsView(movie: moviwe)){
+                movieRow(movio: moviwe.movieName)
+                
         }
     }.navigationBarTitle("Movie")
 }
@@ -40,5 +53,7 @@ struct movieRow: View {
         }
     }
 }
-
+//struct film {
+//    
+//}
 
